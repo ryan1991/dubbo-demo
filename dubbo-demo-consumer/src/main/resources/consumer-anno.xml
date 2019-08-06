@@ -13,7 +13,7 @@
 
     <dubbo:application name="dubbo-demo-consumer" />
 
-    <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181" />
+    <dubbo:registry protocol="zookeeper" address="49.234.96.119:2181" />
 
 
     <context:component-scan base-package="anno"/>
